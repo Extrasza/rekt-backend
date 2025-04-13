@@ -1,11 +1,8 @@
-# 🎮 REKT Game & Review APIs
+# 🎮 REKT Game
 
 ## Descrição
 
-Este projeto contém duas APIs RESTful que trabalham em conjunto para o gerenciamento de backlog e reviews de jogos:
-
-### 🕹️ REKT Game API
-Gerencia a lista de jogos de um usuário, permitindo:
+Este projeto contém uma APIs RESTful que trabalham em conjunto para o gerenciamento de backlog:
 
 - Adicionar jogos à lista;
 - Listar jogos de um usuário;
